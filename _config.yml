@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chunjong \"CJ\" Park"
+title                    : "Chunjong Park"
 title_separator          : "-"
 name                     : &name "Chunjong Park"
 description              : &description "PhD student at UW CSE"
