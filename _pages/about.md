@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Under construction"
+#title: "Under construction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm Chunjong "CJ" Park. I am a PhD student in Computer Science and Engineering, working with <a href="">Shwetak Patel</a> in the <a href="">Ubiquitous Computing Lab</a> at the <a href="">University of Washington</a>. I am interested in building a mobile health application that can be easily and safely used by ordinary people. I am also passionate in extending the capability of the existing applications by augmenting ambient contexts. I achieve the goals by applying appropriate signal processing, computer vision, and machine learning techniques and employing HCI design process and usability evaluation.
 
+Prior to UW CSE, I recieved BS and MS in Computer Science at <a href="">KAIST (Korea Advanced Institute of Science and Technology)</a>. I conducted research with <a href="">Sung-Ju Lee</a>, <a href="">Juho Kim</a>, <a href="">Junehwa Song</a>, and <a href="">Sue Moon</a>.

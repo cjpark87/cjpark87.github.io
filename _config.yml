@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chunjong park"
+  name             :
   avatar           : "profile.png"
-  bio              : "PhD Student in CSE at UW"
+  bio              :
   location         : "Seattle, WA"
   employer         :
   pubmed           :
