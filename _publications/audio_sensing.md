@@ -1,10 +1,10 @@
 ---
 title: 'Augmenting Conversational Agents with Ambient Acoustic Contexts'
 collection: publications
-#authors: "Soowon Kang, Hyeonwoo Choi, Soo Young Park, <b>Chunjong Park</b>, Jemin Lee, Uichin Lee, and Sung-Ju Lee"
-date: 2020--01
-#year: 2019
-#month: October
-venue: '(Under submission)'
+authors: "<b>Chunjong Park</b>, Chulhong Min, Sourav Bhattacharya, Fahim Kawsar"
+date: 2020-10-08
+year: 2020
+month: October
+venue: 'International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)'
 #url: 'https://nmsl.kaist.ac.kr/pdf/MobiCom19_Fire.pdf'
 ---
