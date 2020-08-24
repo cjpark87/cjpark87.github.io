@@ -6,5 +6,5 @@ date: 2019-10-01
 year: 2019
 month: October
 venue: 'ACM Conference on Conference on Mobile Computing and Networking (MobiCom)'
-url: 'https://nmsl.kaist.ac.kr/pdf/MobiCom19_Fire.pdf'
+pdf: 'https://nmsl.kaist.ac.kr/pdf/MobiCom19_Fire.pdf'
 ---

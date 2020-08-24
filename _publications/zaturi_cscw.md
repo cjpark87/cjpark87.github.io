@@ -7,5 +7,5 @@ date: 2017-02-02
 year: 2017
 month: February
 venue: 'ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)'
-url: 'https://nmsl.kaist.ac.kr/~cjpark/pdf/cscw2017_zaturi.pdf'
+pdf: 'https://nmsl.kaist.ac.kr/~cjpark/pdf/cscw2017_zaturi.pdf'
 ---

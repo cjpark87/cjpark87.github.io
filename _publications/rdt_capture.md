@@ -6,5 +6,5 @@ date: 2020-06-17
 year: 2020
 month: June
 venue: 'International Conference on Information and Communication Technologies and Development (ICTD)'
-url: '/files/ICTD20_RDT_Capture.pdf'
+pdf: '/files/ICTD20_RDT_Capture.pdf'
 ---

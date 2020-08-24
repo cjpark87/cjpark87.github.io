@@ -6,5 +6,5 @@ date: 2017-02-01
 year: 2017
 month: February
 venue: 'IEEE/ACM Transaction on Networking'
-url: 'https://nmsl.kaist.ac.kr/~cjpark/pdf/ton2017_dx.pdf'
+pdf: 'https://nmsl.kaist.ac.kr/~cjpark/pdf/ton2017_dx.pdf'
 ---
