@@ -1,10 +1,10 @@
 ---
-title: 'An Observational Study of Sleep, Mobile App Interactions and Job Performance'
+title: 'Online Mobile App Usage as an Indicator of Sleep Behavior and Job Performance'
 collection: publications
-#authors: "Soowon Kang, Hyeonwoo Choi, Soo Young Park, <b>Chunjong Park</b>, Jemin Lee, Uichin Lee, and Sung-Ju Lee"
-date: 2020-01-01
-#year: 2019
-#month: October
-venue: '(Under revisionh)'
-#url: 'https://nmsl.kaist.ac.kr/pdf/MobiCom19_Fire.pdf'
+authors: "<b>Chunjong Park</b>, Morelle Arian, Xin Liu, Leon Sasson, Jeffrey Kahn, Shwetak Patel, Alex Mariakakis, Tim Althoff"
+date: 2021-04-19
+year: 2021
+month: April
+venue: 'The Web Conference (WWW)'
+url: ''
 ---
