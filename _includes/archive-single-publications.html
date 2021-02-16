@@ -27,7 +27,11 @@
       </div>
     {% endif %}
 
-    <p class="archive__item-excerpt" itemprop="description"><b>{{ title }}</b><br>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.month }}, {{ post.year }} [<a href="{{ post.pdf }}">pdf</a>]</p>
+    
+    <p class="archive__item-excerpt" itemprop="description"><b>{{ title }}</b><br>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.month }}, {{ post.year }} 
+    {% if post.pdf %} [<a href="{{ post.pdf }}">pdf</a>] {% endif %}
+    {% if post.website %} [<a href="{{ post.website }}">website</a>] {% endif %}
+    </p>
     
   </article>
 </div>
