@@ -1,5 +1,5 @@
 ---
-title: 'Reliable and Trustworthy Machine Learning for Health Using Dataset Shift'
+title: 'Reliable and Trustworthy Machine Learning for Health Using Dataset Shift (To Appear)'
 collection: publications
 authors: "<b>Chunjong Park</b>, Anas Awadalla, Tadayoshi Kohno, Shwetak Patel"
 date: 2021-12-01
