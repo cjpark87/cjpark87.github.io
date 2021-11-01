@@ -6,4 +6,5 @@ date: 2021-10-01
 year: 2021
 month: October 
 venue: 'ACM Symposium on User Interface Software and Technology (UIST)'
+pdf: 'https://www.microsoft.com/en-us/research/publication/airconstellations-in-air-device-formations-for-cross-device-interaction-via-multiple-spatially-aware-armatures/'
 ---
