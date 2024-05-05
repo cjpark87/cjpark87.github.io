@@ -1,5 +1,5 @@
 ---
-title: 'CAPAPP: Smartphone-based capillary refill index assessment in healthy children'
+title: 'CAPAPP: Smartphone-Based Capillary Refill Index Assessment in Healthy Children'
 collection: publications
 authors: "Jonathan Strutt, Girish Narayanswamy, <b>Chunjong Park</b>, Devesh Sarda, Sixuan Wu, Matthew Thompson, Lauren Harvey, Rachel Hedstrom, Amy Kodet, Shwetak Patel, Alex Mariakakis"
 date: 2023-04-17
